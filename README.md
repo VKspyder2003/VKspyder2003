@@ -10,7 +10,7 @@ Building data-driven systems, backend services, and developer-focused tools.
   <a href="https://github.com/VKspyder2003?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github" alt="GitHub projects" />
   </a>
-  <a href="https://www.linkedin.com/in/vishwas-kapoor/">
+  <a href="https://www.linkedin.com/in/vishwaskapoor0123/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
