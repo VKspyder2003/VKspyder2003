@@ -13,6 +13,9 @@ Building data-driven systems, backend services, and developer-focused tools.
   <a href="https://www.linkedin.com/in/vishwaskapoor0123/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://vishwas-portfolio-1.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 </div>
